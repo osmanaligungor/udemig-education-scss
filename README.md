@@ -1,4 +1,4 @@
-<h1>Udemig Education</h1>
+<h1>Udemig Education(Used Scss)</h1>
   
 <p>This project is a simple educational website. It is made using HTML5, CSS3, SCSS and was created with the aim of applying modern web design techniques. It has a user-friendly interface. </p>
 
